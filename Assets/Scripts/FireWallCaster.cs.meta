@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5723e226e0de905439314d32839a366e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - firewallPrefab: {instanceID: 0}
+  - firewallSourceTransform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
